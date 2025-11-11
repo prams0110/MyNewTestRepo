@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-11-10T12:06:34 IST" name="Default suite" finished-at="2025-11-10T12:06:34 IST" duration-ms="196">
+  <suite started-at="2025-11-11T17:41:29 IST" name="Default suite" finished-at="2025-11-11T17:41:29 IST" duration-ms="55">
     <groups>
-      <group name="sanity,regression,functional">
-        <method signature="PaymentsTests.paymentbyCard()[pri:7, instance:Monday_Nov10.groupingtests.PaymentsTests@76505305]" name="paymentbyCard" class="Monday_Nov10.groupingtests.PaymentsTests"/>
-        <method signature="PaymentsTests.paymentbyUPI()[pri:8, instance:Monday_Nov10.groupingtests.PaymentsTests@76505305]" name="paymentbyUPI" class="Monday_Nov10.groupingtests.PaymentsTests"/>
-      </group> <!-- sanity,regression,functional -->
     </groups>
-    <test started-at="2025-11-10T12:06:34 IST" name="Default test" finished-at="2025-11-10T12:06:34 IST" duration-ms="196">
-      <class name="Monday_Nov10.groupingtests.PaymentsTests">
-        <test-method signature="paymentbyCard()[pri:7, instance:Monday_Nov10.groupingtests.PaymentsTests@76505305]" started-at="2025-11-10T12:06:34 IST" name="paymentbyCard" finished-at="2025-11-10T12:06:34 IST" duration-ms="23" status="PASS">
+    <test started-at="2025-11-11T17:41:29 IST" name="Default test" finished-at="2025-11-11T17:41:29 IST" duration-ms="55">
+      <class name="chandrikapractice.SampleForGitHubPractice">
+        <test-method signature="toPracticeGitHub()[pri:0, instance:chandrikapractice.SampleForGitHubPractice@2d3379b4]" started-at="2025-11-11T17:41:29 IST" name="toPracticeGitHub" finished-at="2025-11-11T17:41:29 IST" duration-ms="9" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- paymentbyCard -->
-        <test-method signature="paymentbyUPI()[pri:8, instance:Monday_Nov10.groupingtests.PaymentsTests@76505305]" started-at="2025-11-10T12:06:34 IST" name="paymentbyUPI" finished-at="2025-11-10T12:06:34 IST" duration-ms="7" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- paymentbyUPI -->
-      </class> <!-- Monday_Nov10.groupingtests.PaymentsTests -->
+        </test-method> <!-- toPracticeGitHub -->
+      </class> <!-- chandrikapractice.SampleForGitHubPractice -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
