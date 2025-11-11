@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-11-11T18:02:07 IST" name="Default suite" finished-at="2025-11-11T18:02:07 IST" duration-ms="64">
+  <suite started-at="2025-11-11T18:19:42 IST" name="Default suite" finished-at="2025-11-11T18:19:43 IST" duration-ms="63">
     <groups>
     </groups>
-    <test started-at="2025-11-11T18:02:07 IST" name="Default test" finished-at="2025-11-11T18:02:07 IST" duration-ms="64">
-      <class name="chandrikapractice.SecondProgramForPractice">
-        <test-method signature="sampleProgram2()[pri:0, instance:chandrikapractice.SecondProgramForPractice@2d3379b4]" started-at="2025-11-11T18:02:07 IST" name="sampleProgram2" finished-at="2025-11-11T18:02:07 IST" duration-ms="13" status="PASS">
+    <test started-at="2025-11-11T18:19:42 IST" name="Default test" finished-at="2025-11-11T18:19:43 IST" duration-ms="63">
+      <class name="chandrikapractice.ThirdSampleProgram">
+        <test-method signature="practice()[pri:0, instance:chandrikapractice.ThirdSampleProgram@443118b0]" started-at="2025-11-11T18:19:42 IST" name="practice" finished-at="2025-11-11T18:19:42 IST" duration-ms="9" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- sampleProgram2 -->
-      </class> <!-- chandrikapractice.SecondProgramForPractice -->
+        </test-method> <!-- practice -->
+      </class> <!-- chandrikapractice.ThirdSampleProgram -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
